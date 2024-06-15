@@ -1,0 +1,21 @@
+# Pattern: <phone>
+ah
+ao
+ay
+eh
+ey
+f
+hh
+ih
+iy
+k
+n
+ow
+r
+s
+t
+th
+uw
+w
+v
+z
